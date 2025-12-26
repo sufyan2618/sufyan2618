@@ -11,13 +11,13 @@
 
 I'm a **Full Stack Engineer with 1.5+ years of professional experience** specializing in modern web development with a strong focus on cloud infrastructure and system design. I build robust, scalable applications using **MERN/PERN stacks and FastAPI**, with proven expertise in DevOps practices, microservices architecture, and backend optimization.
 
-Currently, I'm an **Associate Software Engineer at OrcaOps**, working on construction project management systems while continuously upskilling in Kubernetes, system design, and AI/ML integration. I'm passionate about solving complex problems, writing clean code, and delivering production-grade solutions in fast-paced startup environments.
+Currently, I'm an **Software Engineer at OrcaOps**, working on construction project management systems while continuously upskilling in Kubernetes, system design, and AI/ML integration. I'm passionate about solving complex problems, writing clean code, and delivering production-grade solutions in fast-paced startup environments.
 
 ---
 
 ## 💼 Professional Experience
 
-### **OrcaOps** | Associate Software Engineer
+### **OrcaOps** | Software Engineer
 *November 2025 – Present | Remote*
 
 - 🏗️ Developed construction project management system with **FastAPI** and **PostgreSQL** featuring real-time task tracking and team collaboration
@@ -26,7 +26,7 @@ Currently, I'm an **Associate Software Engineer at OrcaOps**, working on constru
 - 🔔 Implemented production-ready notification system using **Firebase Cloud Messaging (FCM)**, boosting team communication efficiency by **50%**
 - 🔐 Engineered role-based access control (RBAC) with granular permissions and comprehensive error handling
 
-### **BugMonks** | Junior Full Stack Developer
+### **BugMonks** | Associate Full Stack Developer
 *February 2025 – October 2025 | Onsite, Lahore*
 
 - 🏠 Architected **real estate analysis platform** that scrapes and processes rental data from apartments.com using **Bull queue system**
