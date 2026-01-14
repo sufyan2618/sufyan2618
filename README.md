@@ -208,10 +208,9 @@ I'm always interested in:
 ---
 ## 📊 GitHub Statistics
 
-![Sufyan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sufyan2618&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true)
+![Sufyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufyan2618&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sufyan2618&theme=github_dark&layout=compact&langs_count=10)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan2618&theme=github_dark&layout=compact&langs_count=10&cache_seconds=1800)
 
 <div align="center">
 
