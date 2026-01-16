@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sufyan Liaqat
 
-**Full Stack Engineer | DevOps | LLMs Engineer**
+**Full Stack Engineer | DevOps | Applied AI**
 
 🚀 Building scalable, production-grade web and mobile applications  
 📍 Lahore, Pakistan | 🎓 COMSATS University Islamabad (BS Software Engineering)
@@ -207,12 +207,14 @@ I'm always interested in:
 
 ---
 ## 📊 GitHub Statistics
-
-![Sufyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufyan2618&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan2618&theme=github_dark&layout=compact&langs_count=10&cache_seconds=1800)
-
 <div align="center">
+
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=sufyan2618&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sufyan2618&theme=dark&hide=ejs)](https://github.com/sufyan2618/github-readme-stats)
+
+
 
 ### ⭐ If you find my projects useful, please consider giving them a star! ⭐  
 
