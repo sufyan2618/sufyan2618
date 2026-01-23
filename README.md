@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-I'm a **Full Stack Engineer with 1.5+ years of professional experience** specializing in modern web development with a strong focus on cloud infrastructure and system design. I build robust, scalable applications using **MERN/PERN stacks and FastAPI**, with proven expertise in DevOps practices, microservices architecture, and backend optimization.
+I'm a **Full Stack Engineer with 2+ years of professional experience** specializing in modern web development with a strong focus on cloud infrastructure and system design. I build robust, scalable applications using **MERN/PERN stacks and FastAPI**, with proven expertise in DevOps practices, microservices architecture, and backend optimization.
 
 Currently, I'm an **Software Engineer at OrcaOps**, working on construction project management systems while continuously upskilling in Kubernetes, system design, and AI/ML integration. I'm passionate about solving complex problems, writing clean code, and delivering production-grade solutions in fast-paced startup environments.
 
