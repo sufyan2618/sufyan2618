@@ -63,7 +63,7 @@ Currently, I'm an **Software Engineer at OrcaOps**, working on construction proj
 ### **Project Management System**
 **Technologies:** FastAPI, PostgreSQL, React, Celery, Redis, Socket.io, TypeScript  
 
-[🔗 Live Demo](#) • [📦 Repository](#)
+[🔗 Live Demo](https://project-management.sufyanliaqat.me/) • [📦 Repository](#)
 
 - 📋 Full-scale project management application with comprehensive task tracking and team collaboration
 - 🔐 Implemented secure **JWT authentication**, email verification with **OTP**, password reset flows, and rate limiting using FastAPI's async capabilities
@@ -86,7 +86,7 @@ Currently, I'm an **Software Engineer at OrcaOps**, working on construction proj
 ### **Online Identity – Portfolio Generator SaaS**
 **Technologies:** MERN, Handlebars, Supabase, Redis, NGINX, Digital Ocean, GitHub Actions  
 
-[🔗 Live Demo](#) • [📦 Repository](#)
+[🔗 Live Demo](https://online-identity.tech/) • [📦 Repository](https://github.com/sufyan2618/Portfolio_Creator)
 
 - 🎯 Empowered **100+ developers and professionals** to generate custom portfolio websites instantly with 10+ professionally designed templates
 - ⚡ Accelerated template rendering performance by **4x** through Redis caching strategy and optimized MongoDB aggregation queries
@@ -104,25 +104,6 @@ Currently, I'm an **Software Engineer at OrcaOps**, working on construction proj
 - 💬 Built comprehensive social features: infinite scrolling feeds, likes/comments system, user profiles, and JWT-based authentication
 - ⚡ Integrated **Redis caching layer** for frequently accessed data (user feeds, trending content), significantly improving response times
 - 📲 Focused on smooth UI/UX with offline capabilities, optimistic updates, and image optimization
-
-### **Devnity – AI-Powered Code Editor**
-**Technologies:** Next.js, TypeScript, Convex, Clerk, Zustand, Lemon Squeezy  
-
-[🔗 Live Demo](#) • [📦 Repository](#)
-
-- 💻 AI-enhanced online code editor supporting **15+ programming languages** with real-time code execution and intelligent code completion
-- 🤝 Developed collaborative editing features using **Convex** backend for real-time synchronization across multiple developers
-- 🎨 Implemented comprehensive social coding features (snippet sharing, code likes, comments, user profiles), resulting in **60% increase** in user engagement
-- 💳 Integrated **Clerk** authentication and **Lemon Squeezy** payment processing for premium subscription features
-- ⚡ Built with **Next.js 14**, utilizing server-side rendering and static generation for fast page loads and improved SEO
-
-### **NovaVoices – AI Virtual Assistant**
-**Technologies:** React, Node.js, MongoDB, Gemini API, Web Speech API  
-
-[🔗 Live Demo](#) • [📦 Repository](#)
-
-- 🎤 Voice-controlled AI assistant capable of performing 7+ tasks (web search, weather, reminders, calculations, conversations)
-- 🎯 Achieved **90%+ speech recognition accuracy** by integrating Web Speech API and **Google Gemini AI**
 
 ---
 
@@ -209,11 +190,9 @@ I'm always interested in:
 ## 📊 GitHub Statistics
 <div align="center">
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=sufyan2618&theme=dark)
+![Stats](https://github-readme-stats-rho-one-18.vercel.app/api?username=sufyan2618&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
 
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sufyan2618&theme=dark&hide=ejs)](https://github.com/sufyan2618/github-readme-stats)
-
+![Top Langs](https://github-readme-stats-rho-one-18.vercel.app/api/top-langs/?username=sufyan2618&theme=dark&hide=ejs&include_private=true)
 
 
 ### ⭐ If you find my projects useful, please consider giving them a star! ⭐  
