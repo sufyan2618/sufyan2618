@@ -1,202 +1,167 @@
-# Hi there 👋 I'm Sufyan Liaqat
+# Sufyan Liaqat
 
-**Full Stack Engineer | DevOps | Applied AI**
+Full Stack Engineer based in Lahore, Pakistan. I build production-grade web and mobile applications with a focus on backend architecture, cloud infrastructure, and applied AI. Currently working at **OrcaOps** on construction project management systems.
 
-🚀 Building scalable, production-grade web and mobile applications  
-📍 Lahore, Pakistan | 🎓 COMSATS University Islamabad (BS Software Engineering)
-
----
-
-## 🎯 About Me
-
-I'm a **Full Stack Engineer with 2+ years of professional experience** specializing in modern web development with a strong focus on cloud infrastructure and system design. I build robust, scalable applications using **MERN/PERN stacks and FastAPI**, with proven expertise in DevOps practices, microservices architecture, and backend optimization.
-
-Currently, I'm an **Software Engineer at OrcaOps**, working on construction project management systems while continuously upskilling in Kubernetes, system design, and AI/ML integration. I'm passionate about solving complex problems, writing clean code, and delivering production-grade solutions in fast-paced startup environments.
+📍 Lahore, Pakistan &nbsp;·&nbsp; 🎓 COMSATS University Islamabad &nbsp;·&nbsp; [sufyanliaqat.me](https://sufyanliaqat.me)
 
 ---
 
-## 💼 Professional Experience
+## About
 
-### **OrcaOps** | Software Engineer
-*November 2025 – Present | Remote*
+I'm a full-stack engineer with 2+ years of professional experience across startups, freelance, and product companies. My stack centers around **FastAPI, Node.js, React, and PostgreSQL**, and I'm comfortable owning projects end-to-end — from database schema design to CI/CD pipeline configuration.
 
-- 🏗️ Developed construction project management system with **FastAPI** and **PostgreSQL** featuring real-time task tracking and team collaboration
-- ⚡ Eliminated N+1 queries using SQLAlchemy eager loading, reducing query execution time by **65%**
-- 🎬 Built streaming platform with **Next.js SSR**, increasing user retention by **40%** via faster page loads
-- 🔔 Implemented production-ready notification system using **Firebase Cloud Messaging (FCM)**, boosting team communication efficiency by **50%**
-- 🔐 Engineered role-based access control (RBAC) with granular permissions and comprehensive error handling
-
-### **BugMonks** | Associate Full Stack Developer
-*February 2025 – October 2025 | Onsite, Lahore*
-
-- 🏠 Architected **real estate analysis platform** that scrapes and processes rental data from apartments.com using **Bull queue system**
-- 📊 Calculated critical financial metrics: Cap Rate, **DSCR** (Debt Service Coverage Ratio), **CFBT** (Cash Flow Before Tax), and **IRR** (Internal Rate of Return)
-- 📧 Built sophisticated **LinkedIn email marketing automation tool** with web scraping, bulk campaign management, and lead generation workflows
-- 🔐 Implemented secure authentication systems using **JWT** and **OAuth**, integrated **Stripe** payment processing
-- 👥 Developed comprehensive admin dashboards managing **2,000+ active users** with role-based access control
-- 🚀 Optimized **MongoDB** and **PostgreSQL** queries through proper indexing and aggregation pipelines, reducing API response times by **30%**
-- 🏗️ Developed microservices architecture using **Node.js** and **FastAPI** for scalable, maintainable backend systems
-
-### **Freelance Full Stack Developer**
-*December 2024 – April 2025 | Remote*
-
-- 🛍️ Engineered feature-rich **e-commerce web application** with shopping cart, order management, user authentication, and Stripe payment integration
-- 🤖 Developed **AI-powered SaaS platform** conducting intelligent user interviews through conversational chat, generating personalized biographical content using **Google Gemini API**
-- 📲 Designed and implemented **production-ready Firebase Cloud Messaging (FCM)** system with automated cron jobs and user segmentation
-- 🐳 Deployed production-grade applications on **Digital Ocean** using **Docker**, configured **NGINX** reverse proxy, and implemented **CI/CD** pipelines with **GitHub Actions**
-- 💬 Managed client communications, gathered requirements, and delivered projects with comprehensive documentation
+I care about writing maintainable code, designing systems that scale, and shipping things that actually work in production.
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-### **AI Stylist – Personalized Fashion Assistant**
-**Technologies:** MERN, TanStack Query, ChatGPT API, fal.ai, Freepik API, JWT, Stripe  
+**Software Engineer — OrcaOps** &nbsp;*(Nov 2025 – Present · Remote)*
 
-[🔗 Live Demo](#) • [📦 Repository](#)
+- Built a construction project management system using FastAPI and PostgreSQL with real-time task tracking and team collaboration features
+- Eliminated N+1 query patterns via SQLAlchemy eager loading, cutting query execution time by 65%
+- Implemented a production-ready notification system with Firebase Cloud Messaging, improving team communication efficiency by 50%
+- Built a streaming platform with Next.js SSR that increased user retention by 40% through faster page loads
+- Engineered role-based access control (RBAC) with granular permissions and comprehensive error handling
 
-- 🎨 Built AI fashion stylist with interactive questionnaires delivering personalized recommendations via fine-tuned LLMs
-- 👗 Integrated **fal.ai virtual try-on**, boosting user engagement by **55%** and session time by **3.2 minutes**
-- 🖼️ Implemented **Freepik API** for outfit generation, serving **10,000+ combinations** across **500+ users**
-- 🔒 Secured with JWT authentication, Stripe payments, and leaky bucket rate-limiting handling **1,000+ requests/min**
+**Associate Full Stack Developer — BugMonks** &nbsp;*(Feb 2025 – Oct 2025 · Lahore)*
 
-### **Project Management System**
-**Technologies:** FastAPI, PostgreSQL, React, Celery, Redis, Socket.io, TypeScript  
+- Architected a real estate analysis platform that scrapes and processes rental data from apartments.com using a Bull queue system, calculating Cap Rate, DSCR, CFBT, and IRR
+- Built a LinkedIn email marketing automation tool with web scraping, bulk campaign management, and lead generation workflows
+- Managed admin dashboards for 2,000+ active users with role-based access control
+- Reduced API response times by 30% through MongoDB and PostgreSQL indexing and aggregation pipeline optimization
+- Designed microservices architecture using Node.js and FastAPI for a scalable, maintainable backend
 
-[🔗 Live Demo](https://project-management.sufyanliaqat.me/) • [📦 Repository](#)
+**Freelance Full Stack Developer** &nbsp;*(Dec 2024 – Apr 2025 · Remote)*
 
-- 📋 Full-scale project management application with comprehensive task tracking and team collaboration
-- 🔐 Implemented secure **JWT authentication**, email verification with **OTP**, password reset flows, and rate limiting using FastAPI's async capabilities
-- 📧 Integrated **Brevo API** with **Celery workers** for asynchronous email notifications (verification emails, password resets, task assignments)
-- 🎯 Developed intuitive **drag-and-drop Kanban board** using @hello-pangea/dnd with TanStack Query and Redux Toolkit
-- 🚀 Deployed on custom VPS with production-grade infrastructure: **Nginx** reverse proxy, **Supervisor** process management, **SSL certificates** via Certbot, and connection pooling
-- 🔑 Engineered **RBAC system** with granular permissions, comprehensive error handling, and logging
-
-### **Grattan.ai – Real Estate Analytics Platform**
-**Technologies:** MERN, ChatGPT API, Bull, Redis, CSV Parsing, Data Visualization  
-
-[🔗 Live Demo](#) • [📦 Repository](#)
-
-- 🏘️ Comprehensive real estate investment analysis tool scraping apartments.com to extract property data
-- 📈 Engineered automated **rent comparison engine** analyzing **500+ property listings**, comparing amenities, locations, and pricing data
-- 🔄 Implemented robust background job processing using **Bull** and **Redis** for efficient CSV parsing, data scraping, and API-intensive calculations
-- 🤖 Integrated **OpenAI's ChatGPT API** to provide intelligent property insights, investment recommendations, and market analysis
-- 📊 Built responsive React frontend with data visualization charts and interactive property comparison tools
-
-### **Online Identity – Portfolio Generator SaaS**
-**Technologies:** MERN, Handlebars, Supabase, Redis, NGINX, Digital Ocean, GitHub Actions  
-
-[🔗 Live Demo](https://online-identity.tech/) • [📦 Repository](https://github.com/sufyan2618/Portfolio_Creator)
-
-- 🎯 Empowered **100+ developers and professionals** to generate custom portfolio websites instantly with 10+ professionally designed templates
-- ⚡ Accelerated template rendering performance by **4x** through Redis caching strategy and optimized MongoDB aggregation queries
-- 🎨 Developed dedicated admin panel with Supabase backend for real-time template management, enabling zero-downtime addition of **20+ new templates**
-- 🚀 Engineered robust **CI/CD pipeline** using **GitHub Actions** for automated testing, building, and seamless deployment to **Digital Ocean** with **NGINX** reverse proxy
-- 🔧 Implemented dynamic template rendering system using **Handlebars**, allowing flexible customization
-
-### **PicShare – Picture Sharing Platform**
-**Technologies:** React Native, Node.js, GraphQL, PostgreSQL, Redis  
-
-[🔗 Repository](#)
-
-- 📱 Developed cross-platform mobile application for iOS and Android enabling users to upload, share, and discover photo content
-- 🚀 Implemented efficient **GraphQL API** with Node.js and PostgreSQL, reducing over-fetching and improving mobile app performance
-- 💬 Built comprehensive social features: infinite scrolling feeds, likes/comments system, user profiles, and JWT-based authentication
-- ⚡ Integrated **Redis caching layer** for frequently accessed data (user feeds, trending content), significantly improving response times
-- 📲 Focused on smooth UI/UX with offline capabilities, optimistic updates, and image optimization
+- Delivered an AI-powered SaaS platform conducting intelligent user interviews via conversational chat, generating biographical content using Google Gemini API
+- Engineered a production-ready FCM push notification system with automated cron jobs and user segmentation
+- Deployed applications on DigitalOcean with Docker, configured NGINX reverse proxy, and set up CI/CD pipelines via GitHub Actions
 
 ---
 
-## 🛠️ Technical Skills
+## Selected Projects
 
-### **Frontend Development**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+### [Career Auto](https://sufyanliaqat.me) — Job Automation System
+*NestJS · PostgreSQL · React · Grok API · RAG · Vector Embeddings*
 
-### **Backend Development**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=python&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### **DevOps & Cloud Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) 
-
-### **Tools & Developer Environment**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-### **Core Competencies**
-
-- **Performance Optimization:** Query optimization, caching strategies, database indexing, lazy loading, code splitting
-- **Microservices Architecture:** Service decomposition, inter-service communication, API gateway patterns
-- **Security:** Authentication, authorization, rate limiting, input validation, OWASP practices
-- **AI/ML Integration:** ChatGPT API, Google Gemini, fine-tuned LLMs, RAG systems, LangChain
-- **Real-time Applications:** WebSockets, Socket.io, collaborative editing systems
-- **Data Processing:** Web scraping, CSV parsing, data transformation, Bull job queues
-- **Payment Integration:** Stripe, Lemon Squeezy, payment webhooks
-- **System Design:** Scalability, reliability, high-availability architectures
+A job automation platform that scrapes listings from LinkedIn and Indeed and auto-applies on behalf of users. Uses RAG with vector embeddings and the Grok API to intelligently select the best existing resume or generate a tailored one from the job description. Includes a recruiter outreach tool that automates lead extraction and delivers personalized emails at scale — processing 1,000+ applications with individualized content.
 
 ---
 
-## 📊 Key Metrics & Achievements
+### [AI Stylist](https://sufyanliaqat.me) — Personalized Fashion Assistant
+*MERN · TanStack Query · ChatGPT API · fal.ai · Freepik API · Stripe*
 
-| Achievement | Impact |
-|---|---|
-| **Query Optimization** | 65% reduction in query execution time at OrcaOps |
-| **User Retention** | 40% increase through Next.js SSR implementation |
-| **Team Communication** | 50% efficiency boost with FCM notification system |
-| **Template Performance** | 4x faster rendering using Redis caching strategy |
-| **Real Estate Analysis** | Analyzed 500+ property listings with automated metrics calculation |
-| **User Engagement** | 60% increase in Devnity platform engagement |
-| **Financial Metrics** | Implemented complex calculations (DSCR, CFBT, IRR, Cap Rate) |
-| **API Performance** | Handling 1,000+ requests/min with rate limiting |
-| **User Base** | Managed 2,000+ active users with role-based access control |
-| **Portfolio Generation** | Empowered 100+ users to create custom portfolios |
+An AI-powered fashion stylist that delivers personalized outfit recommendations through an interactive questionnaire. Integrated fal.ai's virtual try-on feature, which increased user engagement by 55% and extended average session time by 3.2 minutes. Serves 10,000+ outfit combinations across 500+ users, secured with JWT authentication, Stripe payments, and leaky-bucket rate limiting handling 1,000+ requests/min.
 
 ---
 
-## 🎓 Education
+### [Grattan.ai](https://sufyanliaqat.me) — Real Estate Analytics Platform
+*MERN · ChatGPT API · Bull · Redis · CSV Parsing*
 
-**COMSATS University Islamabad, Lahore Campus**  
-**BS Software Engineering** | 2023 – 2027  
-
-**Relevant Coursework:** Web Technologies, Database Systems, Object-Oriented Programming, Data Structures & Algorithms, Software Engineering, Communication Skills
+A real estate investment analysis tool that scrapes apartments.com to extract property data and runs automated financial calculations across 500+ listings — comparing amenities, pricing, and location. Background job processing via Bull and Redis handles CSV parsing, data scraping, and API-intensive operations. Integrated OpenAI to provide intelligent property insights and investment recommendations through a responsive React dashboard with interactive data visualizations.
 
 ---
 
-## 📈 Currently Learning & Exploring
+## Technical Skills
 
-- 🤖 **Advanced AI/ML Integration:** RAG (Retrieval-Augmented Generation), LangChain, LangGraph
-- 🏗️ **System Design & Scalability:** Designing for millions of users, distributed systems
-- 📊 **Advanced Backend Patterns:** Event-driven architecture, CQRS, saga patterns
-- 🔄 **Kubernetes & Container Orchestration:** Advanced K8s patterns, Helm charts
-- 💾 **Advanced Caching & Databases:** Redis advanced patterns, database sharding, replication
-- 🔐 **Cloud Security & Infrastructure:** AWS advanced services, infrastructure-as-code (Terraform)
+**Languages**
 
-## 🌐 Connect With Me
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyanliaqat2) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyan2618) [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://sufyanliaqat.me) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufyanliaquat58@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923136487106)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=python&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-4A90E2?style=flat-square&logo=pinecone&logoColor=white)
 
 
-## 💬 Let's Collaborate!
+**Other**
 
-I'm always interested in:
-- 🤝 Freelance full-stack projects (MERN, PERN, FastAPI)
-- ☁️ Cloud Deployments and Infrastructure
-- 💼 Full-time opportunities in backend/full-stack roles
-- 🔍 Open-source contributions and collaborations
-- 📖 Knowledge sharing and technical mentoring
-- 🚀 Building scalable, production-grade applications
-
-**Feel free to reach out!** I'm based in **Lahore, Pakistan** and available for remote opportunities worldwide.
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
-## 📊 GitHub Statistics
-<div align="center">
 
-![Stats](https://github-readme-stats-rho-one-18.vercel.app/api?username=sufyan2618&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+## Education
 
-![Top Langs](https://github-readme-stats-rho-one-18.vercel.app/api/top-langs/?username=sufyan2618&theme=dark&hide=ejs&include_private=true)
+**BS Software Engineering** — COMSATS University Islamabad, Lahore Campus *(2023 – 2027)*
 
+Relevant coursework: Data Structures & Algorithms, Database Systems, Web Technologies, Object-Oriented Programming, Software Engineering
 
-### ⭐ If you find my projects useful, please consider giving them a star! ⭐  
+---
 
-**Made with ❤️ in Lahore, Pakistan**
+## Currently Exploring
 
-</div>
+- RAG pipelines and LangGraph for production AI systems
+- Advanced Kubernetes patterns and Helm chart management
+- Event-driven architecture, CQRS, and saga patterns
+- Database sharding, replication, and advanced Redis strategies
+- AWS advanced services and infrastructure-as-code with Terraform
+
+---
+
+## Let's Connect
+
+Open to freelance projects, full-time backend/full-stack roles, and open-source collaboration. Based in Lahore — available for remote work worldwide.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyanliaqat2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://sufyanliaqat.me)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyan2618)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufyanliaquat58@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923136487106)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats-rho-one-18.vercel.app/api?username=sufyan2618&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+</p>
