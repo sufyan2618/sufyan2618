@@ -165,3 +165,7 @@ Open to freelance projects, full-time backend/full-stack roles, and open-source 
 <p align="center">
   <img src="https://github-readme-stats-rho-one-18.vercel.app/api?username=sufyan2618&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-rho-one-18.vercel.app/api/top-langs/?username=sufyan2618&theme=dark&count_private=true" />
+</p>
