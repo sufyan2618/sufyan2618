@@ -1,6 +1,6 @@
 # Sufyan Liaqat
 
-Full Stack Engineer based in Lahore, Pakistan. I build production-grade web and mobile applications with a focus on backend architecture, cloud infrastructure, and applied AI. Currently working at **OrcaOps** on construction project management systems.
+Full Stack Engineer based in Lahore, Pakistan. I build production-grade web and mobile applications with a focus on backend architecture, cloud infrastructure, and applied AI. Currently working at **OrcaOps** on scalable FullStack and GenAI systems.
 
 📍 Lahore, Pakistan &nbsp;·&nbsp; 🎓 COMSATS University Islamabad &nbsp;·&nbsp; [sufyanliaqat.me](https://sufyanliaqat.me)
 
