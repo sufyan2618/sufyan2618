@@ -43,9 +43,22 @@ I care about writing maintainable code, designing systems that scale, and shippi
 ## Selected Projects
 
 ### [Career Auto](https://sufyanliaqat.me) — Job Automation System
-*NestJS · PostgreSQL · React · Grok API · RAG · Vector Embeddings*
+*FastAPI · Celery · PostgreSQL · pgvector · RAG · React*
 
-A job automation platform that scrapes listings from LinkedIn and Indeed and auto-applies on behalf of users. Uses RAG with vector embeddings and the Grok API to intelligently select the best existing resume or generate a tailored one from the job description. Includes a recruiter outreach tool that automates lead extraction and delivers personalized emails at scale — processing 1,000+ applications with individualized content.
+A job automation platform that scrapes listings from LinkedIn and Indeed and auto-applies on behalf of users. Uses RAG with pgvector embeddings and the Grok API to intelligently select the best existing resume or generate a tailored one from the job description. Celery handles background task processing for high-throughput scraping and application workflows. Includes a recruiter outreach tool that automates lead extraction and delivers personalized emails at scale — processing 1,000+ applications with individualized content.
+
+---
+
+### [FairGig](https://github.com/sufyan2618/FairGig) — Gig Worker Income & Rights Platform
+*React · FastAPI · Node.js · PostgreSQL · MongoDB · Groq AI · Kubernetes (k3s) · Prometheus · Grafana · OpenTelemetry*
+
+A microservices-based labour-rights platform built for gig workers, with 6 independent services — Auth, Earnings, Grievance, Analytics, Anomaly, and Certificate — supporting multiple user roles.
+
+- Integrated a Groq LLaMA-powered AI chatbot and voice-to-shift logger enabling workers to log earnings via speech in both Urdu and English
+- Engineered anomaly detection using Z-score and IQR methods to flag unusual deductions and 20%+ income drops with clear, user-friendly explanations
+- Implemented anonymised city-wide median comparisons, an advocate analytics dashboard, and printable income certificates for financial and legal use
+- Deployed on a VPS using a k3s Kubernetes cluster with PVC volumes, cert-manager, Secrets, and ConfigMaps for production-grade configuration management
+- Achieved full production observability with Prometheus, Grafana, Grafana Alloy, Loki, and OpenTelemetry — all provisioned via Helm charts
 
 ---
 
@@ -93,6 +106,7 @@ A real estate investment analysis tool that scrapes apartments.com to extract pr
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 **Databases & Caching**
 
@@ -101,16 +115,27 @@ A real estate investment analysis tool that scrapes apartments.com to extract pr
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=python&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=k3s&logoColor=black)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
 **AI / ML**
 
@@ -122,6 +147,11 @@ A real estate investment analysis tool that scrapes apartments.com to extract pr
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
 ![Vector DBs](https://img.shields.io/badge/Vector%20DBs-4A90E2?style=flat-square&logo=pinecone&logoColor=white)
 
+**Architecture Patterns**
+
+![CQRS](https://img.shields.io/badge/CQRS-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Event--Driven](https://img.shields.io/badge/Event--Driven-FF6600?style=flat-square&logo=apachekafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 **Other**
 
@@ -143,10 +173,11 @@ Relevant coursework: Data Structures & Algorithms, Database Systems, Web Technol
 ## Currently Exploring
 
 - RAG pipelines and LangGraph for production AI systems
-- Advanced Kubernetes patterns and Helm chart management
+- Advanced Kubernetes patterns, Helm chart management, and ArgoCD GitOps workflows
+- Terraform and Infrastructure as Code for cloud provisioning
 - Event-driven architecture, CQRS, and saga patterns
 - Database sharding, replication, and advanced Redis strategies
-- AWS advanced services and infrastructure-as-code with Terraform
+- AWS advanced services and infrastructure automation
 
 ---
 
